@@ -8,3 +8,6 @@ Foram criados 03 casos de testes funcionais no site da loja virtual (https://www
 2.	Fazer login com o campo “password” em branco
 3.	Fazer login com sucesso
 
+Ferramentas utilizadas para a geração de painéis e relatórios:
+Jira 
+Confluence (Zephyr Scale) 
